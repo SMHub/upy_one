@@ -5,7 +5,7 @@ ugit.pull_all()
 import machine
 import time
 
-print('hello 2 upy!')
+print('hello 3 upy!')
 
 print('I hope you enjoy it!')
     
