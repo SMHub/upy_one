@@ -1,9 +1,6 @@
 # ugit
 # micropython OTA update from github
 # Created by TURFPTAx for the openmuscle project
-# Check out https://openmuscle.org for more info
-#
-# Pulls files and folders from open github repository
 
 import os
 import urequests
@@ -24,8 +21,8 @@ password = "gifi3477"
 
 # CHANGE TO YOUR REPOSITORY INFO
 # Repository must be public if no personal access token is supplied
-user = 'turfptax'
-repository = 'ugit_test'
+user = 'smhub'
+repository = 'upy_one'
 token = ''
 # Change this variable to 'master' or any other name matching your default branch
 default_branch = 'main'
