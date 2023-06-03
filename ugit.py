@@ -19,7 +19,6 @@ global internal_tree
 ssid = "GiFi"
 password = "gifi3477"
 
-# CHANGE TO YOUR REPOSITORY INFO
 # Repository must be public if no personal access token is supplied
 user = 'smhub'
 repository = 'upy_one'
