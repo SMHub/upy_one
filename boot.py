@@ -1,13 +1,10 @@
 # Test Boot in ugit_test
+
 import ugit
+print("Started Back UP")
+
+ugit.backup() # good idea to backup your files!
+print("Started Pulling")
 ugit.pull_all()
 
-import machine
-import time
-
-print('hello 4 upy!')
-
-print('I hope you enjoy it!')
-    
-
-
+print("All Set")
